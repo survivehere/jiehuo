@@ -1,0 +1,6 @@
+{
+  "name": "Jiehuo.GitHub.com",
+  "tagline": "phpstorm test ftp connection failed",
+  "body": "### phpstorm test ftp connection failed\r\n问题场景：按照phpstorm的配置ftp的方式，正确配置，但是就是无法连接ftp\r\n解决办法：在ftp配置页面下面有一个advanced options选项框，将passive mode选线勾选，然后重试发现ok了",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
